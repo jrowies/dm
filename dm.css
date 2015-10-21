@@ -19,14 +19,8 @@ body > ul > li {
 	background-color: lightgray;
     font-size: 13px;
     font-weight: normal;
-    /*height: 344px;*/
-    /*white-space: pre-line;*/
     line-height: 20px;
 }
-
-    /*body > ul > li:after {
-        content: '\A';
-    }*/
 
 body > ul > li > ul {
     white-space: normal;
@@ -54,14 +48,3 @@ body > ul > li > ul > li {
     font-weight: bold;
     line-height: initial;
 }
-
-/*body > ul > li > ul {
-    vertical-align: bottom;
-}*/
-/*body > ul > li > ul > li:first-of-type {
-	background-color: lightgray;
-	text-align: center; 
-	height: 30px;
-    font-size: 13px;
-    font-weight: normal;
-}*/
